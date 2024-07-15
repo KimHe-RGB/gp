@@ -100,7 +100,6 @@ per-vertex shading.
 
 *Relevant `igl` functions:* `igl.per_vertex_normals`.
 
-
 ### Per-corner Shading
 ![](img/corner.png?raw=true)
 

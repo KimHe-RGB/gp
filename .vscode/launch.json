@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kimhe/Documents/GitHub/Computer-Graphics/HW2/Assignment_2/src",
+      "program": "/Users/kimhe/Documents/GitHub/Computer-Graphics/HW2/Assignment_2/src/build/Debug/outDebug"
+    }
+  ]
+}
